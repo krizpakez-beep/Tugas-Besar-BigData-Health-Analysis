@@ -25,7 +25,7 @@ Proyek ini menggunakan dataset rekam medis sebesar 70.000 data untuk melatih mod
 
 ## Dokumentasi Tambahan
 Untuk penjelasan mendalam mengenai metodologi, analisis, dan interpretasi hasil, silakan merujuk pada dokumen laporan resmi di tautan berikut:
-https://drive.google.com/file/d/1LFmyQcZPwGjnDGUowewgeKmfKp2_XbCB/view?usp=sharing
+https://drive.google.com/file/d/1E9pMV7CSYV0P4p_1hTBQYuaMq2bZrDjh/view?usp=sharing
 
 LINK VIDEO PRESENTASI
 
