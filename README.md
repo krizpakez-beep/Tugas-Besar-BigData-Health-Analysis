@@ -28,4 +28,7 @@ Untuk penjelasan mendalam mengenai metodologi, analisis, dan interpretasi hasil,
 https://drive.google.com/file/d/1E9pMV7CSYV0P4p_1hTBQYuaMq2bZrDjh/view?usp=sharing
 
 LINK VIDEO PRESENTASI
+https://drive.google.com/file/d/1k33lO-0zwBOeV000OtaYx1MUA4Abf5P3/view?usp=sharing
+
+
 
